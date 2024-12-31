@@ -1,5 +1,5 @@
 # FFmpeg GUI App 日本語
-※For the English version of this README, please scroll down.
+**※For the English version of this README, please scroll down.**
 
 DaVinci Resolveで作成した動画をモバイルアプリで投稿すると「動画をプレビューできません」とエラーが発生します。これは、DaVinci Resolve から ビデオをエクスポートする場合、ファイルにタイムコード (tmcd) トラックを追加されるため、Android 上の一部のアプリケーションがファイルを開くことができないそうです。
 
