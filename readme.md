@@ -54,7 +54,7 @@ python ./src/ffmpeg_tk.py
 - [FFmpeg](https://ffmpeg.org/): このアプリケーションで使用される強力なマルチメディア フレームワーク。
 
 ## デモスクリーンショット Demo Screenshots
-![App Screenshot](demo\screenshot1.png)
+![App Screenshot](demo/screenshot1.png)
 
 ---
 リポジトリへの貢献や問題の報告はお気軽にどうぞ!
@@ -117,7 +117,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - [FFmpeg](https://ffmpeg.org/): A powerful multimedia framework used in this application.
 
 ## Screenshots
-![App Screenshot](demo\screenshot1.png)
+![App Screenshot](demo/screenshot1.png)
 
 ---
 Feel free to contribute or report issues in the repository!
